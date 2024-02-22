@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @neerajKumar19
+			                                                        Hi, I'm Neeraj Kumar										
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+- 📚 I am a Bachelor's of Science student from Dyal Singh College, University of Delhi
 - 🌱 I’m currently practicing React.js
 - 📫 How to reach me: neerajvermag786@gmail.com
 - ⚡ Fun fact: amateur writing, painter and love to sing..
