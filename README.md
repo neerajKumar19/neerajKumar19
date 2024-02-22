@@ -1,4 +1,4 @@
-				 Hi, I'm Neeraj Kumar										
+				            Hi, I'm Neeraj Kumar										
 ______________________________________________________________________________________________________________________________________
 - 📚 I am a Bachelor's of Science student from Dyal Singh College, University of Delhi
 - 🌱 I’m currently practicing React.js
